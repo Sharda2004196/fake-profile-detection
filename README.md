@@ -10,7 +10,9 @@ This project uses machine learning to detect fake social media profiles and allo
 ## Tech Stack
 - Python
 - scikit-learn
-- Pandas, NumPy, Matplotlib
+- Pandas
+- NumPy
+- Matplotlib
 
 ## Demo
 You can find the full presentation link [here](https://drive.google.com/file/d/1wnUtZ2fj2fVbh7mXaYffijGSkiSFGhTH/view?usp=drivesdk)
