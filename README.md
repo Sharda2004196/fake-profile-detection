@@ -1,4 +1,4 @@
-# Fake Social Profile Detection & Reporting
+# Fake Social Media Profile Detection & Reporting
 
 This project uses machine learning to detect fake social media profiles and allows users to report them for further review.
 
